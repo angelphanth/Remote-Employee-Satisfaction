@@ -1,9 +1,9 @@
 # Remote-Employee-Satisfaction
 ## Microsoft x BrainStation Stay at Home Hackathon
 
-This project was done in collaboration with <a href="https://github.com/angelphanth">Angel Phanthanourak</a> as part of a Microsoft-led hackathon running from April 27-29, 2020.
+This repository is in collaboration with fellow Data Scientist <a href="https://github.com/angelphanth">Angel Phanthanourak</a> as part of a Microsoft-led hackathon running from April 27-29, 2020.
 
-Comprised of 3 UX/UI designers, 3 web developers and 2 data scientists, our team created VirtuOffice - a digital office environment to make it easier for remote workers to socialize with their colleagues and leaders so that they can feel more strongly integrated within their employer’s culture.
+Comprised of 3 UX/UI designers, 3 web developers and 2 data scientists, our team created VirtuOffice - a digital office environment to make it easier for remote workers to socialize with their colleagues and leaders so that they can feel more strongly integrated within their employer's culture.
 
 ---
 
