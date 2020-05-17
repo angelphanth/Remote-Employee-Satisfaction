@@ -1,7 +1,7 @@
 # VirtuOffice Analytics `dash`board
 ## Microsoft x BrainStation Stay at Home Hackathon
 
-This repository is in collaboration with fellow Data Scientist <a href="https://github.com/angelphanth">Angel Phanthanourak</a> as part of a Microsoft-led hackathon that took place on April 27-29, 2020.
+This repository is a collaboration between Data Scientists <a href="https://github.com/angelphanth">Angel Phanthanourak</a> and <a href="https://github.com/tomkeith">Tom Keith</a> as part of a Microsoft-led hackathon that took place on April 27-29, 2020.
 
 Comprised of three UX/UI designers (<a href="https://baroud.ca/">Joseph Baroud</a>, <a href="https://scottrs.ca/">Scott Sobere-Yu</a>, <a href="https://marctessierdesign.ca/about">Marc Tessier</a>), three web developers (<a href="https://github.com/rjtbansal">Rajat Bansal</a>, <a href="https://laithharb.com/">Laith Harb</a>, <a href="https://balkiratsingh.com/">Balkirat Singh</a>) and two data scientists, our team created: 
 
@@ -42,8 +42,8 @@ To see the git repository for the website produced by our web developers <a href
 
 ## Dashboard Resources 
 
-- [Another Stage Of Visualization: Be Reactive with Dash](https://towardsdatascience.com/a-gentle-invitation-to-interactive-visualization-with-dash-a200427ccce9) ,
+- [Another Stage Of Visualization: Be Reactive with Dash](https://towardsdatascience.com/a-gentle-invitation-to-interactive-visualization-with-dash-a200427ccce9),
 
-- [Dropdown Examples and Reference](https://dash.plotly.com/dash-core-components/dropdown) , and
+- [Dropdown Examples and Reference](https://dash.plotly.com/dash-core-components/dropdown), and
 
 - Many other [dash](https://dash.plotly.com/) and [plotly graphing library](https://plotly.com/python/) resources. 
